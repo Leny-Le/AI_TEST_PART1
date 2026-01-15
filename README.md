@@ -3,3 +3,6 @@ Hi, i am lenny, a master student at ENSIIE with a background in Applied Mathemat
 I an currently exploring AI, machine learning, and AI agents.
 This repository records my learning experiments and small projets.
 My goal is to become a excellent algorithm engineer in the future.
+
+## Notes
+This section will be updated gradually.
